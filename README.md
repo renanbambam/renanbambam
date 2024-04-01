@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/renanbambam/renanbambam/blob/main/hi%2C%20i%E2%80%99m%20Renan.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Nest.js to frontend development using Angular, Wordpress and ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=49% height="250px" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=radical&mode=weekly" />
