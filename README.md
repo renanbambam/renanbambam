@@ -21,7 +21,7 @@
 
 #### Main Stack:
 
-![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=orange)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
@@ -43,7 +43,7 @@
 
 #### Databases:
 
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
@@ -51,7 +51,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJIdea-purple?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
