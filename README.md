@@ -22,7 +22,6 @@
 #### Main Stack:
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-darkred?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![React](https://img.shields.io/badge/React-008DD8?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -33,14 +32,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-darkorange?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-104D8E?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest.js-darkred?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-darkorange?style=for-the-badge&logo=gitlab&logoColor=FC6D26)&nbsp;
-![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=greasyfork&logoColor=lightblue)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-orange?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Databases:
@@ -54,6 +51,9 @@
 ![VScode](https://img.shields.io/badge/VSCode-104D8E?style=for-the-badge&logo=vsco&logoColor=009ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=2C2255)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-darkorange?style=for-the-badge&logo=gitlab&logoColor=FC6D26)&nbsp;
+![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=greasyfork&logoColor=lightblue)&nbsp;
 
 &nbsp;
 &nbsp;
