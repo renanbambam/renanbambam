@@ -69,4 +69,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=35&fontAlignY=79&animation=fadeIn"/>
