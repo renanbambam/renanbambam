@@ -6,9 +6,9 @@
 
 <div align="center" style="margin-bottom:100px">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=radical&mode=weekly" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
-    <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=renanbambam&show_icons=true&theme=radical&layout=compact" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=renanbambam&show_icons=true&theme=dracula&count_private=true" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=tokyonight&mode=weekly" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+    <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=renanbambam&show_icons=true&theme=tokyonight&layout=compact" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=renanbambam&show_icons=true&theme=tokyonight&count_private=true" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
   </div>
 </div>
  
