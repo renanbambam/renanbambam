@@ -21,18 +21,20 @@
 
 #### Main Stack:
 
-![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=blue)&nbsp;
-![PHP](https://img.shields.io/badge/Php-purple?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Nest.js](https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-darkred?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
+![React](https://img.shields.io/badge/React-008DD8?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Wordpress](https://img.shields.io/badge/WordPress-104D8E?style=for-the-badge&logo=wordpress&logoColor=blue)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=779BB4)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-104D8E?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-darkorange?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-104D8E?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![Nest.js](https://img.shields.io/badge/Nest.js-darkred?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-darkorange?style=for-the-badge&logo=gitlab&logoColor=FC6D26)&nbsp;
+![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=greasyfork&logoColor=lightblue)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -43,15 +45,15 @@
 
 #### Databases:
 
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-darkred?style=for-the-badge&logo=oracle&logoColor=F80000)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-104D8E?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vsco&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJIdea-purple?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-104D8E?style=for-the-badge&logo=vsco&logoColor=009ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=2C2255)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=000000)&nbsp;
 
 &nbsp;
 &nbsp;
