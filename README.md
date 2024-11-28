@@ -49,7 +49,7 @@
 ![VScode](https://img.shields.io/badge/VSCode-104D8E?style=for-the-badge&logo=vsco&logoColor=009ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=2C2255)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=000000)&nbsp;
- &nbsp;
+<br>
 ![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-darkorange?style=for-the-badge&logo=gitlab&logoColor=FC6D26)&nbsp;
 ![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=greasyfork&logoColor=lightblue)&nbsp;
