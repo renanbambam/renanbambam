@@ -22,7 +22,9 @@
 #### Main Stack:
 
 ![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=openjdk&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-White?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -32,7 +34,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+![Nest.js](https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
