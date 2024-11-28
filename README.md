@@ -4,11 +4,13 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Nest.js to frontend development using Angular, Wordpress and ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=33% height="250px" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=radical&mode=weekly" />
- <img width=33% height="250px" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=renanbambam&show_icons=true&theme=radical&layout=compact" />
- <img width=33% height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=renanbambam&show_icons=true&theme=dracula&count_private=true" />
- </div>
+<div align="center" style="margin-bottom:100px">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=radical&mode=weekly" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+    <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=renanbambam&show_icons=true&theme=radical&layout=compact" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=renanbambam&show_icons=true&theme=dracula&count_private=true" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
+  </div>
+</div>
  
  &nbsp;
 
