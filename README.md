@@ -1,72 +1,125 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/renanbambam/renanbambam/blob/main/hi%2C%20i%E2%80%99m%20Renan.jpg" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Nest.js to frontend development using Angular, Wordpress and ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on development.</p>&nbsp;
-
-<div align="center" style="margin-bottom:100px">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=renanbambam&theme=aura&mode=weekly" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
-    <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=renanbambam&show_icons=true&theme=aura&layout=compact" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=renanbambam&show_icons=true&theme=aura&count_private=true" style="width: 33%; min-width: 90%; max-width: 33%; height: auto;" />
-  </div>
-</div>
- 
- &nbsp;
-
-
-## My Skills
-
-#### Main Stack:
-
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-darkred?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
-![React](https://img.shields.io/badge/React-008DD8?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Wordpress](https://img.shields.io/badge/WordPress-104D8E?style=for-the-badge&logo=wordpress&logoColor=blue)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=779BB4)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-104D8E?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-darkorange?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-104D8E?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![Nest.js](https://img.shields.io/badge/Nest.js-darkred?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Studying in this moment:
-
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-orange?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Databases:
-
-![Oracle](https://img.shields.io/badge/Oracle-darkred?style=for-the-badge&logo=oracle&logoColor=F80000)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-104D8E?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/VSCode-104D8E?style=for-the-badge&logo=vsco&logoColor=009ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=2C2255)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=000000)&nbsp;
-<br>
-![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-darkorange?style=for-the-badge&logo=gitlab&logoColor=FC6D26)&nbsp;
-![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=greasyfork&logoColor=lightblue)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/renanjunior10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://github.com/renanbambam#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D3B66&height=270&section=header&fontAlignY=35&text=Renan+Ferreira+de+Souza&fontSize=55&fontColor=0FA3B1#gh-dark-mode-only" />
 </a>
-<a href = "mailto:renanferreira102030@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/renan-ferreira-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=35&fontAlignY=79&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0FA3B1&size=32&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer;Java+8+%7C+JPA+%7C+Hibernate+%7C+SQL;GovTech+Systems+%7C+PRODEMGE+-+CAGEC;Estagi%C3%A1rio+atuando+como+Júnior)](https://git.io/typing-svg)
+
+<h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> </h2>
+
+
+
+
+## 🏛️ Sobre mim
+
+**Estagiário em Desenvolvimento Java atuando em nível júnior** no projeto **CAGEC**, sistema corporativo responsável por centralizar informações de entidades públicas do Estado de Minas Gerais.
+
+Atuação direta na **manutenção, evolução e sustentação** de um sistema govtech com **alta regra de negócio**, utilizado por órgãos e entidades públicas.
+
+
+
+
+## 🎯 Atuação no Projeto CAGEC (PRODEMGE)
+
+✦ 🏗️ Manutenção e evolução de sistema corporativo govtech  
+✦ 🧠 Implementação e ajuste de regras de negócio complexas  
+✦ 🗄️ Manipulação de dados com **Oracle SQL**  
+✦ 🔄 Correção de bugs e incidentes em produção (sob supervisão)  
+✦ 👥 Trabalho em **Kanban**, **Scrum** e **pair programming**  
+✦ 🔍 Apoio em testes manuais e ambiente de homologação  
+
+
+
+
+## 💼 Contexto Profissional
+
+✦ 🚀 Atuação prática com responsabilidades equivalentes a **desenvolvedor júnior**  
+✦ 🧩 Liberdade para assumir **demandas de maior complexidade** no backlog  
+✦ 🤝 Suporte contínuo de desenvolvedores seniores e liderança técnica  
+✦ 🛠️ Foco em **qualidade de código**, organização e boas práticas de desenvolvimento  
+✦ 📈 Evolução constante em sistemas corporativos com alta regra de negócio 
+
+
+
+
+## 🔥 Projeto Java em Destaque
+
+### 📌 Quarkus API – Sistema de Gestão Empresarial
+🔗 https://github.com/renanbambam/quarkus-api
+
+API REST desenvolvida em **Java com Quarkus**, como projeto acadêmico, simulando um sistema de gestão empresarial com **controle de usuários e permissões**.
+
+**Principais funcionalidades:**
+✦ 🔐 Autenticação com login/logout  
+✦ ⏳ Token com expiração  
+✦ 👤 Controle de perfis (Administrador x Usuário comum)  
+✦ 📊 Cadastro e visualização de informações financeiras (entradas/saídas)  
+✦ 📜 Regras de acesso por tipo de usuário  
+✦ 🌐 Estrutura RESTful com múltiplos endpoints  
+
+Projeto focado em **arquitetura backend**, regras de negócio e segurança básica de API.
+
+
+
+
+### 🔧 Stack Principal
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+
+
+
+## 🛠️ Stack Técnica
+
+| Backend | Java Enterprise | Bancos de Dados | Tools / DevOps | Metodologias |
+|--------|----------------|------------------|---------------|--------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | ![J2EE](https://img.shields.io/badge/J2EE-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) |
+
+
+
+
+### 🎓 Experiência Acadêmica e Projetos
+
+✦ <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="vertical-align: middle;" /> — desenvolvimento de **APIs REST** em contexto acadêmico  
+
+✦ <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" style="vertical-align: middle;" /> — projeto acadêmico e pessoal com foco em **backend Java moderno**  
+
+✦ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="vertical-align: middle;" /> — fundamentos e **consumo de APIs REST**  
+
+✦ <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="vertical-align: middle;" /> — introdução a aplicações mobile integradas com backend  
+
+✦ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="vertical-align: middle;" /> — projetos pessoais com foco em **estrutura e componentização**
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=renanbambam&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d6ee&line=00d6ee&point=00d6ee"/>
+</div>
+
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/renan-ferreira-souza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:renanferreira102030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5531998747890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lordreinan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D3B66&height=110&section=footer"/>
