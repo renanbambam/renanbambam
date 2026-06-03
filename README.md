@@ -46,7 +46,7 @@ While most of my professional experience has been with Java, Spring Boot, Oracle
 
 ## Currently Working On
 
-- Building a complete Salesforce application with Apex and Lightning Web Components (LWC)
+- Maintaining and expanding a production Salesforce application with Apex, LWC and Claude AI integration
 - Developing native mobile applications with SwiftUI and Jetpack Compose
 - Expanding backend experience through C#/.NET projects
 - Studying software architecture, distributed systems and scalable API design
@@ -100,6 +100,22 @@ Architecture showcase demonstrating the design of a real-time trading assistant 
 - Context persistence system
 - Dockerized environment
 - GitHub Actions CI/CD pipelines
+
+---
+
+### 📊 Salesforce AI Sales Intelligence
+
+**salesforce-ai-sales-intelligence**  
+Apex · LWC · Salesforce Platform
+
+Enterprise CRM application with AI-powered sales analysis built natively on Salesforce.
+
+- Trigger Handler Pattern + Repository Pattern + Dependency Injection
+- Claude AI integration via Apex REST Callouts for opportunity scoring
+- Real-time LWC components with Platform Events
+- Scheduled Apex jobs for daily AI briefing
+- 85%+ test coverage with MockHttpCallout strategy
+- Named Credentials for secure API key management
 
 ---
 
