@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Backend Engineer at PRODEMGE (GovTech) • Java • Oracle • React • Next.js • Angular
+  Backend Engineer at PRODEMGE (GovTech) · Java · .NET · TypeScript · Node · Angular · React · Salesforce · SQL &amp; NoSQL
 </p>
 
 <p align="center">
@@ -27,15 +27,30 @@ Expected Graduation: Jul 2026 · Current GPA: 9.05 / 10
 
 I'm a fullstack software engineer with a strong foundation in engineering fundamentals — my value comes from architecture, programming logic, integration and maintainability, not from any single technology.
 
-Since **2024 I've been a Backend Engineer at PRODEMGE**, working in a real production environment with real public-sector users. My day-to-day centers on **backend with Java / Spring Boot**, **Oracle SQL** and enterprise systems, where I evolve domain rules and resolve production incidents. I also work across the frontend with **React, Next.js and Angular**.
+Since **2024 I've been a Backend Engineer at PRODEMGE**, working in a real production environment with public-sector users — evolving domain rules, resolving production incidents and integrating enterprise systems (currently on Java / Spring Boot and Oracle SQL), and contributing across the frontend with React, Next.js and Angular.
 
-Beyond that, I have hands-on experience and applied study in **C# / .NET, Python, TypeScript and mobile development**, with an active interest in **Salesforce, Swift and Kotlin**. Because my focus is on engineering principles and problem solving rather than a specific language, I can move into different stacks with a real technical base.
+Outside that role I design and ship complete systems in other ecosystems, applying the same engineering fundamentals to each: a **.NET 8** workflow platform, a **NestJS** organization-management API, a **Quarkus** financial API, an **Angular / React / React Native** product suite and a **Salesforce** application. Because my value comes from architecture, domain modeling and problem solving rather than a single language, I move between stacks with a real technical base — and I'm actively expanding into Swift and Kotlin.
 
 I'm open to **Junior Fullstack, Backend, Salesforce and Mobile opportunities**.
 
 ---
 
 ## Featured Projects
+
+### 🏛️ GovFlow
+
+**[`GovFlow`](https://github.com/renanbambam/GovFlow)**
+`ASP.NET Core · .NET 8 · PostgreSQL`
+
+Enterprise workflow and process-management platform built around Clean Architecture, DDD and CQRS.
+- Clean Architecture + DDD + CQRS with MediatR
+- JWT authentication with refresh tokens and role-based access control (RBAC)
+- Process timeline / audit history, comments and PDF document management
+- Real-time process updates over SignalR
+- SLA monitoring with Hangfire background jobs
+- Dashboard and reporting endpoints
+- 60 automated tests across domain, application and integration layers
+- Dockerized PostgreSQL environment
 
 ### 🧩 Finance Manager Ecosystem
 
